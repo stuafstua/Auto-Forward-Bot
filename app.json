@@ -8,7 +8,7 @@
   ],
   "logo": "https://telegra.ph/file/5b5dd216d70b29c80e25e.jpg",
   "success_url": "https://telegram.dog/Autoforward_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "website": "https://github.com/stuafstua/Auto-Forward-Bot",
   "repository": "https://github.com/stuafstua/Auto-Forward-Bot",
   "env": {
     "WEBHOOK": {
